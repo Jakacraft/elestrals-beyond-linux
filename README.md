@@ -15,7 +15,7 @@ The launcher crashes on startup under stock Wine/Proton, and even after that is 
 ## Quick start
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/elestrals-beyond-linux.git
+git clone https://github.com/Jakacraft/elestrals-beyond-linux.git
 cd elestrals-beyond-linux
 bash install-elestrals-beyond.sh
 ```
