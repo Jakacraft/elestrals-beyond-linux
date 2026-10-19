@@ -160,7 +160,6 @@ Once a GE-Proton release includes both, a normal GE-Proton plus a plain Wine pre
 - [s1aai/firestorm-wine-fix](https://github.com/s1aai/firestorm-wine-fix): the patched `ole32.dll` and the structure this script is adapted from (LGPL-2.1-or-later).
 - The reporter and commenters on [Wine bug 60225](https://bugs.winehq.org/show_bug.cgi?id=60225), who identified the root cause of the `ole32` crash.
 - [GloriousEggroll](https://github.com/GloriousEggroll/proton-ge-custom) (GE-Proton), [Wine](https://www.winehq.org/), and [umu-launcher](https://github.com/Open-Wine-Components/umu-launcher).
-- Written with help from an AI assistant (Claude) and tested by the author on one machine.
 
 ## License
 
